@@ -7,10 +7,10 @@ import re
 import json
 
 #global variables
-consumer_key = 'SEBN1NnrrJpa6T4DObaf4cRlb'
-consumer_secret = 'cPb2T79rlMcxmOYLtOKN3hIHcUhgNrvp6nNVWGEjp9hhDafv09'
-token_key = '2852191167-xKj3TBRMoa2D0akBPBCkHhg6PgtONXG4dc0pJ6B'
-token_secret = 'ZSiaA92V1iDFaJNf0kM0abBT6cLrO0qI3Dyp6bkgyNaZX'
+consumer_key = ''
+consumer_secret = ''
+token_key = ''
+token_secret = ''
 #candidate variables
 candidate_name = ''
 candidate_user_id = ''
